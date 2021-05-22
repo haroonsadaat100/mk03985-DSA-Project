@@ -38,7 +38,8 @@ In order to run this code you should have the following libraries and version of
 
 
 Once all the libraries and apporpriate version of python has been installed. Follow these steps:
-1, Open the main script named as Path_Planning, using idle.
+
+1, Open the main script named as Robot_Path_Planning, using idle.
 
 2, In this script you will have  multiple image files containing obstcales. Select the one you wish to observe by uncommenting that file_name.
 
