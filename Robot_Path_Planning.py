@@ -8,11 +8,11 @@ import graphs
 
 
 #We assign the name of the image if in the same folder of code or path of the image if it is in a different folder into a variable
-file_name = 'square2.png' 
-#file_name = 'square5.png'
-#file_name = 'square_new2.png'
-#file_name = 'square_new4.png'
-#file_name = 'square_new5.png'
+file_name = 'obstacles1.png' 
+#file_name = 'obstacles2.png'
+#file_name = 'obstacles3.png'
+#file_name = 'obstacles4.png'
+#file_name = 'obstacles5.png'
 
 
 
