@@ -3,7 +3,7 @@
 In this project we have applied graph theory and shortest path finding algorithms to detect the most efficient path from a source point to a destination point for a mobile robot under the presence of obstacles in between the robot and goal point.
 
 
-This project has 5 key stages:
+This project has the following key stages:
 
 1, Read the image containing obstacle environment information.
 
