@@ -41,7 +41,7 @@ Once all the libraries and apporpriate version of python has been installed. Fol
 
 1, Open the main script named as Robot_Path_Planning, using idle.
 
-2, In this script you will have  multiple image files containing obstcales. Select the one you wish to observe by uncommenting that file_name.
+2, In this script you will have  multiple image files containing different obstcales. Select the one you wish to observe by uncommenting that file_name.
 
 3, You can change the robot and goal postion by modifying RX,RY and GX,GY.
 
